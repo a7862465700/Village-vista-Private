@@ -1,0 +1,16 @@
+# Large media files (backed up via OneDrive only)
+*.mp4
+*.mp3
+*.zip
+*.jpg
+*.png
+
+# Claude local config
+.claude/
+
+# Subdirectories with their own git repos
+borrower-portal/
+village-vista/
+village-vista-v2/
+unpacked_contract_crm/
+mockups/
