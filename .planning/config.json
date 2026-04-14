@@ -1,0 +1,13 @@
+{
+  "project_name": "Village Vista Website",
+  "created": "2026-04-10",
+  "milestone": "v1.0",
+  "milestone_goal": "Launch-ready conversion-optimized land sales website",
+  "autonomous_mode": true,
+  "pause_between_phases": false,
+  "model_profile": "quality",
+  "skip_research": true,
+  "skip_ui_spec": false,
+  "commit_after_phase": true,
+  "verify_after_execute": true
+}
